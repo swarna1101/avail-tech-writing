@@ -1,0 +1,1 @@
+Use https://stackedit.io/ for the .md files for all the flowcharts and representations
